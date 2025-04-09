@@ -19,4 +19,5 @@ body{
 
 .content {
     text-align: center; /* Optional: center the header and form */
+    margin-top: 10px;
 }
